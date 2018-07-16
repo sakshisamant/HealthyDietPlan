@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="sakshi.com.healthydietplan.youtube"
+    android:orientation="vertical"
+    android:weightSum="1"
+    >
+
+
+    <com.google.android.youtube.player.YouTubePlayerView
+        android:id="@+id/youtube"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="0.4">
+
+    </com.google.android.youtube.player.YouTubePlayerView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.6"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/underweight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_weight="0.1"
+            android:text="Underweight" />
+
+        <Button
+            android:id="@+id/normal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/underweight"
+            android:layout_weight="0.1"
+            android:text="Normal" />
+
+        <Button
+            android:id="@+id/overweight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/normal"
+            android:layout_weight="0.1"
+            android:text="Overweight" />
+
+        <Button
+            android:id="@+id/obese"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+
+            android:layout_below="@+id/overweight"
+            android:layout_weight="0.1"
+            android:text="Obese" />
+
+        <Button
+            android:id="@+id/kids"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/obese"
+            android:layout_weight="0.1"
+            android:text="Kids" />
+
+        <Button
+            android:id="@+id/pwomen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/kids"
+            android:layout_weight="0.1"
+            android:text="Pregnant Women" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

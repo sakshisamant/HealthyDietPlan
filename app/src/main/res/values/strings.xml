@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">NutriAll</string>
+    <string name="wtloss">
+
+        <b>1. Add, Don\'t Subtract</b> \n\n
+        Forget diet denial: Try adding foods to your diet instead of subtracting them.
+        Add in healthy goodies you really love, like deep-red cherries, juicy grapes,
+        or crunchy snow peas. Slip those favorite fruits into your bag lunch and breakfast
+        cereal; add the veggies into soups, stews, and sauces.\n\n
+
+        <b>2. Lighten the Foods You Already Love</b> \n\n
+        One of the easiest ways to cut back without feeling denied is to switch to lower-calorie
+        versions of the foods you crave. A pizza tastes just as good with reduced-fat cheese, and
+        when you garnish low-fat ice cream with your favorite toppers, who notices those missing calories?\n\n
+
+        <b>3. Because Hydration Helps -- Really!</b> \n\n
+        Down some water before a meal and you won\'t feel so famished, says David Anthony, an information
+        technology consultant from Atlanta. "Drinking a glass of water before a meal helps me watch what
+        I eat. … I don\'t just hog everything, since I\'m not so hungry."\n\n
+
+        <b>4. Do not overtake the stimulants</b>\n\n
+        Avoid frequent drinking of tea and coffee in a day. Also stop the consumption of bed tea or bed coffee.
+        Because the use of caffeine is harmful when you take it on an empty stomach. It raises the stress level
+        which is a reason for the increase of hunger. So, you can understand that caffeine is a reason for obesity indirectly.\n\n
+
+        <b>5. Drink Plenty of water</b>\n\n
+        Water is a zero calorie drink with low sodium. It helps flush out the toxic substances build-up inside the body.
+        Frequent water consumption increases the rate of metabolism.\n
+
+        You can drink the solution of lemon, honey, and water in the early morning. Or you can have the coconut water alone.
+        This helps to keep your body hydrated and maintain the electrolyte balance in the body.\n\n
+
+        <b>6. Do not skip breakfast</b>\n\n
+        Rules for Obesity
+        Breakfast is the most important meal of the day. If you skip breakfast, you will be less active for the whole day
+        . The people who skip breakfast are more forgetful than the people who eat breakfast. Skipping breakfast is a 21%
+        reason for type II diabetes. So, you should eat something like a cup of yogurt or a cup of porridge. Also, you can
+        eat cucumber slices or drink carrot juice on an empty stomach.\n\n
+
+        <b>7. Do not keep your stomach hungry</b>\n\n
+        People try to avoid eating with a thought of fasting helps to reduce the weight. But, keeping your stomach hungry
+        leads to some side effects. They are headaches, dizziness, lightheadedness, fatigue, low blood pressure and abnormal
+        heart rhythms. So, eat well to fulfill your nutritional needs and avoid the side effects.\n\n
+
+        <b>8. Have an early last meal</b>\n\n
+        Eating in the initial hours of the night is one of the excellent weight loss treatments. You will have some health
+        benefits of early dinners. They are weight control, peaceful sleep, healthier heart, more time for digestion, etc.
+
+        You can also prevent the burning sensation that occurs when you eat heavily in the nights. And also you will start the
+        day with more energy. So, make a habit of dinners 3 hours before the sleep.\n\n
+
+        <b>9. Control the calorie intake!</b>\n\n
+        Reduce Calorie Intake\n
+        Reduce Calorie Intake\n
+        To have a fit and healthy body, you should keep an eye on the calorie food intake. High calories in your food lead to
+        many health issues. They are diabetes, heart attack, cognitive impairment, osteoarthritis, etc. So try to avoid the
+        high calorie food if you want to lose weight fast.
+
+    </string>
+    <string name="avita">
+
+    Important for eyesight,skin health, the immune system, body and bone growth, and development of cells.\n
+    Vitamin A can be found in foods derived from animals such as liver and fish oil, milk, and eggs. In plants vitamin A exists as
+    Beta-Carotene in dark green leafy and orange vegetables.\n\n
+
+    <b>Required intake</b>\n
+    Men: 900 mg/day\n
+    Women: 700 mg/day
+
+    </string>
+
+    <string name="bvita">
+
+        The job of Vitamin B is to help the metabolize carbohydrates, fats, and amino acids in the body turning them into fuel for the
+        body to use as energy. There are 8 different B vitamins. Thiamin, Riboflavin, Niacin, Folate, B6 and B12, Biotin, and Panthothenic
+        acid. All are important in energy metabolism.\n
+        These vitamins can be found in liver, bananas, spinach, potatoes and chicken breast. \n\n
+
+    <b>Required intake</b>\n
+    Men: 15 mg/day\n
+    Women: 12 mg/day
+
+    </string>
+
+    <string name="cvita">
+
+        This Vitamin is important in the development of collagen which is the connective tissue such as bones, skin and tendons. It is
+        also an antioxidant which protect the cells from oxidizing themselves which prevent disease. \n
+        Lots of fruits like oranges, grapefruit and vegetables such as peppers and broccoli are important sources of vitamin C.\n\n
+
+    <b>Required intake</b>\n
+    Men: 90 mg/day\n
+    Women: 75 mg/day
+
+    </string>
+
+    <string name="dvita">
+
+        This is a unique vitamin in that with the help of the sun the body can synthesize all it needs. But many people do not get enough sun
+        exposure so they must get vitamin D through food. The main job of vitamin D is to help regulate calcium in the body which is essential
+        for bone, muscle, tissue. nerve and gland renewal.\n
+        Vitamin D can be found in foods such as fish, milk, fortified cereals.\n\n
+
+    <b>Required intake</b>\n
+        Adults: 15 mg/day
+
+    </string>
+
+    <string name="evita">
+
+        Vitamin e is an essential as an antioxidant that fights off free radicals which can cause premature aging, cancer, heart disease, and more.\n
+        It is found mostly in fresh, raw vegetable oil sources. It is important that they are minimally processed in order to have the best
+        sources. \n\n
+
+
+    <b>Required intake</b>\n
+        Adults: 15 mg/day
+    </string>
+
+
+    <string name="kvita">
+
+        This is the vitamin that is essential in blood clotting. Too much vitamin K can cause blood clots in the heart, whee too little
+        will cause a person to bleed to quickly, Vitamin K is also important in building bone protein.\n
+        Dark green leafy vegetables, broccoli, brussels sprouts, and cabbages are good sources of Vitamin K, \n\n
+
+    <b>Required intake</b>\n
+    Men: 120 mg/day\n
+    Women: 90 mg/day
+
+    </string>
+
+
+</resources>
